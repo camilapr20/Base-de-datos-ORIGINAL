@@ -1,0 +1,197 @@
+,Código,Provincia,Urbano,Rural,Sí lee y escribe,No lee ni escribe
+1,101,"Amazonas, provincia: Chachapoyas",37214,18292,46783,6078
+2,102,"Amazonas, provincia: Bagua",38587,35513,58015,11546
+3,103,"Amazonas, provincia: Bongara",12344,13293,20918,3450
+4,104,"Amazonas, provincia: Condorcanqui",4075,38395,29994,8594
+5,105,"Amazonas, provincia: Luya",6502,37934,34354,7638
+6,106,"Amazonas, provincia: Rodríguez de Mendoza",4989,25009,24095,4323
+7,107,"Amazonas, provincia: Utcubamba",53849,53388,84202,17064
+8,201,"Áncash, provincia: Huaraz",123069,40867,135570,20049
+9,202,"Áncash, provincia: Aija",0,6316,5310,729
+10,203,"Áncash, provincia: Antonio Raymondi",0,13650,10245,2678
+11,204,"Áncash, provincia: Asunción",0,7378,5309,1737
+12,205,"Áncash, provincia: Bolognesi",9276,14521,19861,2895
+13,206,"Áncash, provincia: Carhuaz",13820,31364,32796,10214
+14,207,"Áncash, provincia: Carlos Fermín Fitzcarrald",3786,13931,12285,4546
+15,208,"Áncash, provincia: Casma",38907,12082,41579,6696
+16,209,"Áncash, provincia: Corongo",0,7532,6005,1175
+17,210,"Áncash, provincia: Huari",13000,45714,44747,11107
+18,211,"Áncash, provincia: Huarmey",22295,8265,26222,2762
+19,212,"Áncash, provincia: Huaylas",15204,36130,38756,9834
+20,213,"Áncash, provincia: Mariscal Luzuriaga",0,20284,13802,5476
+21,214,"Áncash, provincia: Ocros",0,7039,5979,726
+22,215,"Áncash, provincia: Pallasca",6913,16578,18239,3986
+23,216,"Áncash, provincia: Pomabamba",5667,19127,16723,6830
+24,217,"Áncash, provincia: Recuay",5969,11216,13918,2480
+25,218,"Áncash, provincia: Santa",412281,23526,377097,38174
+26,219,"Áncash, provincia: Sihuas",4354,22617,19539,5947
+27,220,"Áncash, provincia: Yungay",12187,38654,36371,11932
+28,301,"Apurímac, provincia: Abancay",79657,30863,90367,14528
+29,302,"Apurímac, provincia: Andahuaylas",69220,73257,107058,27938
+30,303,"Apurímac, provincia: Antabamba",0,11310,8790,2050
+31,304,"Apurímac, provincia: Aymaraes",4297,20010,18535,4747
+32,305,"Apurímac, provincia: Cotabambas",15853,34803,36999,10926
+33,306,"Apurímac, provincia: Chincheros",13832,31415,33474,9274
+34,307,"Apurímac, provincia: Grau",3105,18137,16009,4283
+35,401,"Arequipa, provincia: Arequipa",1063523,17112,951789,80118
+36,402,"Arequipa, provincia: Camaná",49868,9502,51143,5351
+37,403,"Arequipa, provincia: Caravelí",26447,14899,35543,3734
+38,404,"Arequipa, provincia: Castilla",18554,15075,28112,3990
+39,405,"Arequipa, provincia: Caylloma",55954,30817,72316,9935
+40,406,"Arequipa, provincia: Condesuyos",2830,13288,13472,1974
+41,407,"Arequipa, provincia: Islay",49575,2459,45557,4303
+42,408,"Arequipa, provincia: La Unión",2190,10637,9588,2613
+43,501,"Ayacucho, provincia: Huamanga",220954,61240,229912,37274
+44,502,"Ayacucho, provincia: Cangallo",8185,22258,22506,6470
+45,503,"Ayacucho, provincia: Huanca Sancos",3023,5386,6525,1559
+46,504,"Ayacucho, provincia: Huanta",44773,44693,69024,15331
+47,505,"Ayacucho, provincia: La Mar",34184,36469,53335,13400
+48,506,"Ayacucho, provincia: Lucanas",19804,31524,41031,8050
+49,507,"Ayacucho, provincia: Parinacochas",16221,11438,22070,4383
+50,508,"Ayacucho, provincia: Páucar del Sara Sara",2717,6892,7849,1332
+51,509,"Ayacucho, provincia: Sucre",2269,7176,7424,1655
+52,510,"Ayacucho, provincia: Víctor Fajardo",3338,16771,15108,4202
+53,511,"Ayacucho, provincia: Vilcas Huamán",2577,14284,12302,3834
+54,601,"Cajamarca, provincia: Cajamarca",209408,139025,278095,51236
+55,602,"Cajamarca, provincia: Cajabamba",21112,54575,56290,14732
+56,603,"Cajamarca, provincia: Celendín",19809,59275,59726,15282
+57,604,"Cajamarca, provincia: Chota",30413,112571,106395,29722
+58,605,"Cajamarca, provincia: Contumazá",7744,19949,22855,3517
+59,606,"Cajamarca, provincia: Cutervo",23918,96805,91147,23863
+60,607,"Cajamarca, provincia: Hualgayoc",17428,60516,55494,19005
+61,608,"Cajamarca, provincia: Jaén",96443,88989,148414,27116
+62,609,"Cajamarca, provincia: San Ignacio",25881,104739,100449,22273
+63,610,"Cajamarca, provincia: San Marcos",9835,38268,35537,9967
+64,611,"Cajamarca, provincia: San Miguel",4426,41617,36560,7466
+65,612,"Cajamarca, provincia: San Pablo",3475,17627,15833,4183
+66,613,"Cajamarca, provincia: Santa Cruz",5176,31988,29173,6277
+67,701,Provincia Constitucional del Callao,994494,0,881563,67582
+68,801,"Cusco, provincia: Cusco",432662,14926,390423,35699
+69,802,"Cusco, provincia: Acomayo",10384,12556,17195,4751
+70,803,"Cusco, provincia: Anta",16907,39299,43808,9494
+71,804,"Cusco, provincia: Calca",28308,34847,47810,12164
+72,805,"Cusco, provincia: Canas",3870,28614,24636,6438
+73,806,"Cusco, provincia: Canchis",59677,36097,76778,14649
+74,807,"Cusco, provincia: Chumbivilcas",15794,50616,49451,14000
+75,808,"Cusco, provincia: Espinar",33241,24341,46527,8162
+76,809,"Cusco, provincia: La Convención",57019,90129,119262,21174
+77,810,"Cusco, provincia: Paruro",0,25567,18467,6007
+78,811,"Cusco, provincia: Paucartambo",3990,38514,29433,10559
+79,812,"Cusco, provincia: Quispicanchi",38049,49381,64752,17837
+80,813,"Cusco, provincia: Urubamba",31351,29388,49122,8590
+81,901,"Huancavelica, provincia: Huancavelica",61849,53205,90165,18952
+82,902,"Huancavelica, provincia: Acobamba",10036,28172,27896,8322
+83,903,"Huancavelica, provincia: Angaraes",11259,37948,35957,10465
+84,904,"Huancavelica, provincia: Castrovirreyna",0,13982,11267,2003
+85,905,"Huancavelica, provincia: Churcampa",3306,29232,23628,7213
+86,906,"Huancavelica, provincia: Huaytará",0,17247,13777,2695
+87,907,"Huancavelica, provincia: Tayacaja",19412,61991,61189,16094
+88,1001,"Huánuco, provincia: Huánuco",210539,82858,235689,42478
+89,1002,"Huánuco, provincia: Ambo",17964,32916,38142,9755
+90,1003,"Huánuco, provincia: Dos De Mayo",8609,24649,25580,5866
+91,1004,"Huánuco, provincia: Huacaybamba",2636,13915,12137,3480
+92,1005,"Huánuco, provincia: Huamalíes",14643,37396,40737,8469
+93,1006,"Huánuco, provincia: Leoncio Prado",89945,37848,104091,17003
+94,1007,"Huánuco, provincia: Marañón",7861,18761,19820,5203
+95,1008,"Huánuco, provincia: Pachitea",13504,35655,33872,12264
+96,1009,"Huánuco, provincia: Puerto Inca",7394,25144,25379,4927
+97,1010,"Huánuco, provincia: Lauricocha",2337,16576,15747,2227
+98,1011,"Huánuco, provincia: Yarowilca",0,19897,14803,4153
+99,1101,"Ica, provincia: Ica",370323,21196,342988,28858
+100,1102,"Ica, provincia: Chincha",210075,16038,194662,18511
+101,1103,"Ica, provincia: Nazca",60399,8758,59782,5922
+102,1104,"Ica, provincia: Palpa",6912,6320,11271,1339
+103,1105,"Ica, provincia: Pisco",138708,12036,128945,13165
+104,1201,"Junín, provincia: Huancayo",503674,41941,470119,49110
+105,1202,"Junín, provincia: Concepción",26937,28654,45726,7049
+106,1203,"Junín, provincia: Chanchamayo",101309,50180,125211,18227
+107,1204,"Junín, provincia: Jauja",40864,42393,70310,9136
+108,1205,"Junín, provincia: Junín",16567,6566,18667,3299
+109,1206,"Junín, provincia: Satipo",68905,135080,157582,31504
+110,1207,"Junín, provincia: Tarma",62539,27051,75147,10192
+111,1208,"Junín, provincia: Yauli",31778,8612,35993,2744
+112,1209,"Junín, provincia: Chupaca",32355,20633,44669,5753
+113,1301,"La Lbertad, provincia: Trujillo",947975,22041,842936,79945
+114,1302,"La Lbertad, provincia: Ascope",103633,12153,99353,10843
+115,1303,"La Lbertad, provincia: Bolívar",0,14457,11143,2360
+116,1304,"La Lbertad, provincia: Chepén",68974,9444,66211,8516
+117,1305,"La Lbertad, provincia: Julcán",2846,25178,21647,4631
+118,1306,"La Lbertad, provincia: Otuzco",19338,58524,60172,13201
+119,1307,"La Lbertad, provincia: Pacasmayo",97240,5657,87213,10603
+120,1308,"La Lbertad, provincia: Pataz",17074,59029,57321,14101
+121,1309,"La Lbertad, provincia: Sánchez Carrión",48305,96100,101038,33040
+122,1310,"La Lbertad, provincia: Santiago de Chuco",16852,34044,39720,8057
+123,1311,"La Lbertad, provincia: Gran Chimú",4688,22204,21527,3963
+124,1312,"La Lbertad, provincia: Virú",76630,15694,73791,12546
+125,1401,"Lambayeque, provincia: Chiclayo",758872,40803,693969,68697
+126,1402,"Lambayeque, provincia: Ferreñafe",55448,41967,76321,15386
+127,1403,"Lambayeque, provincia: Lambayeque",156801,143369,242762,38204
+128,1501,"Lima, provincia: Lima",8567786,7188,7674911,542649
+129,1502,"Lima, provincia: Barranca",130824,13557,123422,13890
+130,1503,"Lima, provincia: Cajatambo",0,6559,5426,866
+131,1504,"Lima, provincia: Canta",6037,5511,9968,1084
+132,1505,"Lima, provincia: Cañete",216285,23728,206780,20236
+133,1506,"Lima, provincia: Huaral",161415,22483,158496,16702
+134,1507,"Lima, provincia: Huarochirí",27140,31005,50691,4831
+135,1508,"Lima, provincia: Huaura",205046,22639,196848,19420
+136,1509,"Lima, provincia: Oyón",10263,7476,15002,1905
+137,1510,"Lima, provincia: Yauyos",0,20463,17912,1825
+138,1601,"Loreto, provincia: Maynas",405630,74236,399845,53119
+139,1602,"Loreto, provincia: Alto Amazonas",83584,39141,93836,19974
+140,1603,"Loreto, provincia: Loreto",23370,39067,44986,12635
+141,1604,"Loreto, provincia: Mariscal Ramón Castilla",17631,31441,36758,8690
+142,1605,"Loreto, provincia: Requena",33973,24538,44822,9314
+143,1606,"Loreto, provincia: Ucayali",28185,26452,43072,7717
+144,1607,"Loreto, provincia: Datem del Marañón",11314,37168,33219,10991
+145,1608,"Loreto, provincia: Putumayo",3056,4724,5906,1298
+146,1701,Madre de Dios prov. de Tambopata,102117,9357,93728,11332
+147,1702,Madre de Dios prov. de Manu,9105,9444,14970,2435
+148,1703,Madre de Dios prov. de Tahuamanu,5521,5526,9223,1193
+149,1801,"Moquegua, provincia: Mariscal Nieto",75316,10033,74094,7678
+150,1802,"Moquegua, provincia: General Sánchez Cerro",2326,12539,12651,1669
+151,1803,"Moquegua, provincia: Ilo",74249,400,66057,5321
+152,1901,"Pasco, provincia: Pasco",102168,20847,104574,12284
+153,1902,"Pasco, provincia: Daniel Alcides Carrión",14867,28713,36298,5720
+154,1903,"Pasco, provincia: Oxapampa",43234,44236,69652,12652
+155,2001,"Piura, provincia: Piura",707318,92003,665216,91005
+156,2002,"Piura, provincia: Ayabaca",14959,104328,87448,24805
+157,2003,"Piura, provincia: Huancabamba",17208,94293,80059,25076
+158,2004,"Piura, provincia: Morropón",102916,59111,128192,25163
+159,2005,"Piura, provincia: Paita",124977,4915,107453,14371
+160,2006,"Piura, provincia: Sullana",287278,24176,261893,33877
+161,2007,"Piura, provincia: Talara",141953,2197,125260,11511
+162,2008,"Piura, provincia: Sechura",75224,3953,64360,8976
+163,2101,"Puno, provincia: Puno",138912,80582,184688,25867
+164,2102,"Puno, provincia: Azángaro",33569,76823,86705,18564
+165,2103,"Puno, provincia: Carabaya",32906,40416,58288,11436
+166,2104,"Puno, provincia: Chucuito",24161,64841,73681,12004
+167,2105,"Puno, provincia: El Collao",21838,42040,51167,10508
+168,2106,"Puno, provincia: Huancané",7714,49937,44836,10671
+169,2107,"Puno, provincia: Lampa",13232,27624,33169,5732
+170,2108,"Puno, provincia: Melgar",36425,30713,54905,9310
+171,2109,"Puno, provincia: Moho",3257,16496,15478,3717
+172,2110,"Puno, provincia: San Antonio de Putina",24333,11780,29977,4700
+173,2111,"Puno, provincia: San Román",278532,28885,263029,29207
+174,2112,"Puno, provincia: Sandia",4003,46739,41035,7369
+175,2113,"Puno, provincia: Yunguyo",11766,25173,28404,7281
+176,2201,"San Martín, provincia: Moyobamba",86221,36144,98955,16478
+177,2202,"San Martín, provincia: Bellavista",33917,21116,43573,8100
+178,2203,"San Martín, provincia: El Dorado",15613,21139,27995,6457
+179,2204,"San Martín, provincia: Huallaga",13120,14386,22322,3694
+180,2205,"San Martín, provincia: Lamas",45251,36270,63529,13329
+181,2206,"San Martín, provincia: Mariscal Cáceres",40983,23643,52278,8406
+182,2207,"San Martín, provincia: Picota",20105,20440,32496,5611
+183,2208,"San Martín, provincia: Rioja",93510,29034,96741,18340
+184,2209,"San Martín, provincia: San Martín",167116,25979,165631,17590
+185,2210,"San Martín, provincia: Tocache",38243,31151,56296,9183
+186,2301,"Tacna, provincia: Tacna",288875,17488,270263,23206
+187,2302,"Tacna, provincia: Candarave",0,6102,5119,795
+188,2303,"Tacna, provincia: Jorge Basadre",5111,5662,9557,795
+189,2304,"Tacna, provincia: Tarata",2802,3292,5239,665
+190,2401,"Tumbes, provincia: Tumbes",147678,7284,132389,14417
+191,2402,"Tumbes, provincia: Contralmirante Villar",17157,3900,17797,2084
+192,2403,"Tumbes, provincia: Zarumilla",45757,3087,40250,5457
+193,2501,"Ucayali, provincia: Coronel Portillo",341162,43006,319347,40959
+194,2502,"Ucayali, provincia: Atalaya",20314,29010,33301,11659
+195,2503,"Ucayali, provincia: Padre Abad",40668,19439,47357,8811
+196,2504,"Ucayali, provincia: Purús",0,2860,1969,695
