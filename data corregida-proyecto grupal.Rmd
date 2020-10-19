@@ -1,0 +1,97 @@
+---
+title: "Proyecto grupal-corregido"
+author: "Camila Peña"
+date: "10/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##La importación se realizó desde la base de datos del INEI, de la cual descargamos el censo del 2017 y elegimos la tabla provincial correspondiente a analfabetismo. Al descargar la data e importarla en R, nos dimos cuenta de la necesidad de modificarla para fines prácticos. Por ello, decidimos elaborar todo el proceso presentado a continuación.
+
+
+##Librerías necesarias 
+
+```{r}
+library(htmltab)
+library(stringr)
+library(readr) 
+library(rio)
+```
+
+##Importo la base de Git Hub
+
+```{r}
+data="https://github.com/camilapr20/Base-de-datos-ORIGINAL/raw/master/data-analfabetismo.xlsx" 
+data=import(data)
+```
+
+##Cambiamos el nombre de las variables de la data 
+
+```{r}
+names(data)=c("Título","Código","Provincia","Urbano","Rural","Sí lee y escribe","No lee ni escribe")
+names(data)
+head(data)
+
+```
+
+##Eliminamos la primera columna 
+
+```{r}
+data=data[,c(2,3,4,5,6,7)]
+```
+
+##Eliminamos Código
+
+```{r}
+data$Código=NULL
+```
+
+##Modifico los nombres y ubicaciones
+
+```{r}
+data$Regiones=str_split(string = data$Provincia,
+         pattern = ',',
+         simplify = T)[,1]
+data$Prov=str_split(string = data$Provincia,
+         pattern = ':',
+         simplify = T)[,2]
+data$Provincia=NULL
+data=data[,c(5,6,1,2,3,4)] #ordenar las columnas 
+```
+
+##Verificamos la naturaleza de nuestras variables 
+
+```{r}
+summary(data)
+data$`Sí lee y escribe`= as.numeric(data$`Sí lee y escribe`)
+data$`No lee ni escribe`= as.numeric(data$`No lee ni escribe`)
+str(data$`Sí lee y escribe`)
+str(data$`No lee ni escribe`)
+```
+
+##Eliminamos las filas que no son útiles
+
+```{r}
+data<-data[-c(1:4,203:205,1:5),]
+data<-data[-c(1),]
+```
+
+##Hallar el porcentaje 
+
+```{r}
+data$`Si lee y escribe - Porcentaje`= (data$`Sí lee y escribe`/data$Total)*100
+data$`No lee ni escribe - Porcentaje`= (data$`No lee ni escribe`/data$Total)*100
+
+```
+
+##Exportamos la data modificada 
+
+```{r}
+write.csv(data,file = "data-final2.csv")
+```
+
+
+
